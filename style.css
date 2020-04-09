@@ -1,0 +1,24 @@
+
+body {
+    background-color: #faf6f5;
+background-image: url("https://www.transparenttextures.com/patterns/dark-dotted-2.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+
+
+h1 {
+    color: red;
+}
+
+#myimage {
+    width: 400px;
+
+}
+
+
+#newimage {
+    width: 300x;
+    height: 300px;
+}
